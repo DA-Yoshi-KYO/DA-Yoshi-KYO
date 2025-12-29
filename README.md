@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🛠 Languages & Tools
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,git,github,visualstudio,unity,unrealengine,blender)
+
 <!--
 **DA-Yoshi-KYO/DA-Yoshi-KYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
